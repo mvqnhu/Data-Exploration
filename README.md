@@ -1,3 +1,4 @@
+Link Query: <https://console.cloud.google.com/bigquery?sq=669009281866:a9840c48d1a54edab450fd6679cbea52>
 ## I. Introduction
 Data analyst have to deal with vast amount of data in a single analysis. This tool helps me to digest more information and return specific result based on query.
 ## II. Challenges
